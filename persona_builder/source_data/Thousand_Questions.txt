@@ -1,0 +1,16 @@
+# This is a placeholder for the Thousand_Questions.txt file.
+# Please populate this file with the actual questions in the expected format.
+#
+# Expected format:
+# Category Name 1
+#     Question 1 in category 1?
+#     Question 2 in category 1?
+# Category Name 2
+#     Question 1 in category 2?
+#
+# Example:
+# Personal Values
+#     What are your core values?
+#     How do these values influence your decisions?
+# Aspirations
+#     What are your long-term goals?
