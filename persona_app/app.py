@@ -1,5 +1,5 @@
 import streamlit as st
-from persona_agent import create_persona_agent #, agent_storage
+from .persona_agent import create_persona_agent  # noqa: E402
 import os
 from dotenv import load_dotenv
 import nest_asyncio

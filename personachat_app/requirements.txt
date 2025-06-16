@@ -1,5 +1,0 @@
-streamlit
-agno
-openai
-python-dotenv
-nest_asyncio
