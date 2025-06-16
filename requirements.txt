@@ -2,3 +2,6 @@ openai
 python-dotenv
 typer[all]
 pydantic
+streamlit
+agno
+nest_asyncio
