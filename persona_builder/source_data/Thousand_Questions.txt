@@ -1,16 +1,24 @@
-# This is a placeholder for the Thousand_Questions.txt file.
-# Please populate this file with the actual questions in the expected format.
-#
-# Expected format:
-# Category Name 1
-#     Question 1 in category 1?
-#     Question 2 in category 1?
-# Category Name 2
-#     Question 1 in category 2?
-#
-# Example:
-# Personal Values
-#     What are your core values?
-#     How do these values influence your decisions?
-# Aspirations
-#     What are your long-term goals?
+Personal Values
+    What values are most important to you?
+    How do these values guide your actions?
+    Which value would you never compromise?
+
+Aspirations
+    What do you hope to accomplish in the next five years?
+    How does your dream career align with your passions?
+    If resources were unlimited, what project would you pursue?
+
+Relationships
+    Who are the most influential people in your life?
+    How do you maintain healthy friendships?
+    What qualities do you value in a partner?
+
+Daily Life
+    What routines help you stay productive?
+    How do you handle stress during a busy day?
+    What hobbies bring you the most joy?
+
+Self-Reflection
+    What personal achievement are you most proud of?
+    How do you learn from your mistakes?
+    What motivates you to keep growing?
